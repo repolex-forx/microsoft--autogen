@@ -1,0 +1,11 @@
+{
+  "org": "microsoft",
+  "repo": "autogen",
+  "versions": [
+    {
+      "commit": "004749e6b7102c8fd317b9b1499ce5807223c278",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:45:06.189223+00:00"
+    }
+  ]
+}
